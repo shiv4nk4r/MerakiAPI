@@ -1,0 +1,26 @@
+{
+  "name": "meraki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv4nk4r/Meraki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiv4nk4r/Meraki/issues"
+  },
+  "homepage": "https://github.com/shiv4nk4r/Meraki#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.6"
+  }
+}
